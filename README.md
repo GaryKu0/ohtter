@@ -2,7 +2,7 @@
 
 A modern, minimalist blog platform built with Next.js, featuring a sleek pill navigation powered by Framer Motion. Perfect for developers who want to start a personal blog with a modern UI/UX.
 
-![video-example](https://www.okuso.uk/blog-assets/cute-pill.mp4)
+https://github.com/user-attachments/assets/e5a43c8e-7e13-4402-bb31-baec47c374b8
 
 ## ✨ Features
 
@@ -80,14 +80,14 @@ Your content here...
 - **Navigation**: Custom Pill Navigation Component
 
 ## 📦 Project Structure
-
+```
 src/
 ├── app/ # Next.js app router
 ├── components/ # React components
 ├── content/ # MDX blog posts
 ├── data/ # Data fetching utilities
 └── lib/ # Utility functions
-
+```
 ## ⚙️ Configuration
 
 ### Customizing Theme
@@ -122,5 +122,5 @@ MIT License - Feel free to use this for your own blog!
 ## 💐 Acknowledgments
 
 - Next.js team for the amazing framework
-- Framer Motion for smooth animations
+- Framer Motion for smooth animations (I think it's call motion now :) )
 - Tailwind CSS for styling utilities
